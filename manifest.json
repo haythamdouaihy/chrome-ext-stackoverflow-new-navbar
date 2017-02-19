@@ -7,6 +7,6 @@
     "content_scripts":[{
         "css": ["styles.css"],
         "js": ["content.js"],
-        "matches": ["http://stackoverflow.com/*"]
+        "matches": ["http://stackoverflow.com/*", "http://meta.stackoverflow.com/*"]
     }]
 }
