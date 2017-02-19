@@ -1,4 +1,15 @@
+/*
+Author: haythamdouaihy
+Version: 0.1
+Name: Stack Overflow New Navigation Bar - Darker theme, and removing top and bottom borders
+ */
+
 .so-header {
-    border-top-width: 0px;
-    background-color: #2f3337;
+    background-color: #2f3337 !important;
+    border-top:none !important;
+    box-shadow:unset !important;
+    border-bottom:solid 1px #d3d3d3 !important;
+    height:auto !important;
 }
+
+
