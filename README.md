@@ -1,1 +1,1 @@
-## simple chrome extension to change stackoverflow newNavBar style to set a darker background color
+## simple chrome extension to change stackoverflow and meta-stackoverflow newNavBar style to set a darker background color
